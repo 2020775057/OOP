@@ -1,0 +1,15 @@
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\bin\Debug\net6.0\Year.exe
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\bin\Debug\net6.0\Year.deps.json
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\bin\Debug\net6.0\Year.runtimeconfig.json
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\bin\Debug\net6.0\Year.dll
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\bin\Debug\net6.0\Year.pdb
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.csproj.AssemblyReference.cache
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.AssemblyInfoInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.AssemblyInfo.cs
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.csproj.CoreCompileInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.dll
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\refint\Year.dll
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.pdb
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\Year.genruntimeconfig.cache
+C:\Users\전유림\Desktop\yurim\OOP\Year\Year\obj\Debug\net6.0\ref\Year.dll
