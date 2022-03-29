@@ -1,0 +1,8 @@
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\bin\Debug\SumAvg.exe.config
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\bin\Debug\SumAvg.exe
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\bin\Debug\SumAvg.pdb
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\obj\Debug\SumAvg.csproj.AssemblyReference.cache
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\obj\Debug\SumAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\obj\Debug\SumAvg.csproj.CoreCompileInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\obj\Debug\SumAvg.exe
+C:\Users\전유림\Desktop\yurim\OOP\SumAvg\SumAvg\obj\Debug\SumAvg.pdb
