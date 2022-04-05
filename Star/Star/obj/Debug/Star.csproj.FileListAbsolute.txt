@@ -1,0 +1,8 @@
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\bin\Debug\Star.exe.config
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\bin\Debug\Star.exe
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\bin\Debug\Star.pdb
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\obj\Debug\Star.csproj.AssemblyReference.cache
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\obj\Debug\Star.csproj.SuggestedBindingRedirects.cache
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\obj\Debug\Star.exe
+C:\Users\전유림\Desktop\yurim\OOP\Star\Star\obj\Debug\Star.pdb
