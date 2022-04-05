@@ -1,0 +1,8 @@
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\bin\Debug\CI.exe.config
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\bin\Debug\CI.exe
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\bin\Debug\CI.pdb
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\obj\Debug\CI.csproj.AssemblyReference.cache
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\obj\Debug\CI.csproj.SuggestedBindingRedirects.cache
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\obj\Debug\CI.csproj.CoreCompileInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\obj\Debug\CI.exe
+C:\Users\전유림\Desktop\yurim\OOP\CI\CI\obj\Debug\CI.pdb
