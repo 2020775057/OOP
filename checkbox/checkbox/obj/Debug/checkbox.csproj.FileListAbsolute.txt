@@ -1,0 +1,11 @@
+C:\Users\전유림\source\repos\checkbox\checkbox\bin\Debug\checkbox.exe.config
+C:\Users\전유림\source\repos\checkbox\checkbox\bin\Debug\checkbox.exe
+C:\Users\전유림\source\repos\checkbox\checkbox\bin\Debug\checkbox.pdb
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.Form1.resources
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.exe
+C:\Users\전유림\source\repos\checkbox\checkbox\obj\Debug\checkbox.pdb
