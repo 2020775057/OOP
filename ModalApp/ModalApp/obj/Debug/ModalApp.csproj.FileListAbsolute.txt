@@ -1,0 +1,12 @@
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\bin\Debug\ModalApp.exe.config
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\bin\Debug\ModalApp.exe
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\bin\Debug\ModalApp.pdb
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.csproj.AssemblyReference.cache
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.Form1.resources
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.Form2.resources
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.Properties.Resources.resources
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.csproj.GenerateResource.cache
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.csproj.CoreCompileInputs.cache
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.exe
+C:\Users\전유림\Desktop\yurim\OOP\ModalApp\ModalApp\obj\Debug\ModalApp.pdb
